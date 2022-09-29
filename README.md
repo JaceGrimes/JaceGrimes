@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OverlySolemn
+- 👋 Hi, I’m @Jace Grimes
 - 👀 I’m interested in ... Blockchain, Web Development and Cybersecurity
 - 🌱 I’m currently learning ... Database and SQL
 
