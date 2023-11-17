@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jace Grimes
-- 👀 I’m interested in ... Blockchain, Web Development and Cybersecurity
-- 🌱 I’m currently learning ... Database and SQL
+- 👀 I’m interested in ... Frontend Web/Mobile development, Game Development
+- 🌱 I’m currently learning ... PostgresSQL, Node.js, Express.js
 
 <!---
 OverlySolemn/OverlySolemn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
